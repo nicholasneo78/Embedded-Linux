@@ -8,4 +8,4 @@ A very basic form of messaging platform via 2 terminals to pass and receive mess
 
 #### server_client_basic_communication
 
-A simple communication platform between the server and the client where the client is supposed to input an integer value to the server and the server is to read and return the client with 5 times the value that the client has inputted.
+A simple communication platform between the server and the client where the client is supposed to input an integer value to the server and the server is to read and return the client with 5 times the value that the client have input.

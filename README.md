@@ -11,3 +11,7 @@ Other reference: Learning-X YouTube Channel https://www.youtube.com/channel/UCYt
 #### server_client_basic_communication
 
 A simple communication platform between the server and the client where the client is supposed to input an integer value to the server and the server is to read and return the client with 5 times the value that the client have input.
+
+#### server_client_calculator
+
+Leveraged on what was taught and to perform simple arithmetic calculation that takes in input from the client and pass it to the server to do the calculations.
